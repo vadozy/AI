@@ -53,15 +53,18 @@ def plot_k_means(X, K, max_iter=20, beta=1.0, show_plots=True):
                 break
 
     if show_plots:
-        plt.plot(costs)
+        plt.plot(costs, 'go--')
         plt.title("Costs")
         plt.show()
 
+        # K random colors (each has 3 color dimensions R G B)
         random_colors = np.random.random((K, 3))
+        # samples around k, will have predominantly k color
         colors = R.dot(random_colors)
         plt.scatter(X[:,0], X[:,1], c=colors)
         plt.show()
 
+    print(M)
     return M, R
 
 

@@ -2,3 +2,5 @@
 *.pyc
 venv*/
 .ipynb_checkpoints/
+__pycache__/
+large_files/

@@ -1,4 +1,1 @@
-Cluster Analysis and Unsupervised Machine Leaening
-
-# https://deeplearningcourses.com/c/cluster-analysis-unsupervised-machine-learning-python
-# https://www.udemy.com/cluster-analysis-unsupervised-machine-learning-python
+01. The Numpy Stack in Python

@@ -1,5 +1,4 @@
 import numpy as np
-import pandas as pd
 
 from collections import defaultdict
 
@@ -37,9 +36,9 @@ def getData(balance_ones=False):
 
 def getBinaryData(l0, l1):
     """
-	l0 and l1  are distinct values between 0 and 6 inclusive
-	l0 will be labeled 0, l1 will be labeled 1
-	"""
+    l0 and l1  are distinct values between 0 and 6 inclusive
+    l0 will be labeled 0, l1 will be labeled 1
+    """
     Y = []
     X = []
     first = True

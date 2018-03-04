@@ -1,14 +1,14 @@
-00. (skipped) Data Analytics: SQL for newbs, beginners and marketers
-01. The Numpy Stack in Python
-02. Linear Regression in Python
-03. Logistic Regression in Python
+x 00. (skipped) Data Analytics: SQL for newbs, beginners and marketers
+d 01. The Numpy Stack in Python
+d 02. Linear Regression in Python
+d 03. Logistic Regression in Python
 04. Supervised Machine Learning in Python
 05. Bayesian Machine Learning in Python: A/B Testing
 06. Deep Learning in Python
 07. Modern Deep Learning in Python
 08. Ensemble Machine Learning in Python: Random Forest and AdaBoost
 09. Convolutional Neural Networks in Python
-10. Cluster Analysis and Unsupervised Machine Learning in Python
+? 10. Cluster Analysis and Unsupervised Machine Learning in Python
 11. Unsupervised Deep Learning in Python
 12. Easy Natural Language Processing (NLP)
 13. Hidden Markov Models in Python
@@ -17,3 +17,6 @@
 16. Deep Learning with Natural Language Processing in Python
 17. Advanced AI: Deep Reinforcement Learning in Python
 18. Deep Learning: GANs and Variational Autoencoders
+
+x - skipped
+d - done

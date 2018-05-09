@@ -2,7 +2,7 @@ x 00. (skipped) Data Analytics: SQL for newbs, beginners and marketers
 d 01. The Numpy Stack in Python
 d 02. Linear Regression in Python
 d 03. Logistic Regression in Python
-04. Supervised Machine Learning in Python
+d 04. Supervised Machine Learning in Python
 05. Bayesian Machine Learning in Python: A/B Testing
 06. Deep Learning in Python
 07. Modern Deep Learning in Python
